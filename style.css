@@ -53,7 +53,7 @@
 
 .home{
     display: flex;
-    background: url("images/r8.png") no-repeat center;
+    background: url("r8.png") no-repeat center;
     height: 100vh;
     color:#fff;
     min-height: 500px;
